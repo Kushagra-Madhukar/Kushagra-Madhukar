@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Animated typing headline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=E05C1A&background=00000000&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Kushagra+%F0%9F%91%8B;Rust+%26+AI+Systems+Engineer;Building+ARIA-X+%E2%80%94+Local-first+Agent+Runtime;Multi-Agent+%7C+Tool+Orchestration+%7C+Rust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=E05C1A&background=00000000&center=true&vCenter=true&random=false&width=750&lines=Hey%2C+I'm+Kushagra+%F0%9F%91%8B;Sr.+Full+Stack+Dev+%40+Blinkit+%F0%9F%9F%A1;Rust+%26+AI+Systems+Engineer;Building+ARIA-X+%E2%80%94+Local-first+Agent+Runtime;Multi-Agent+%7C+Tool+Orchestration+%7C+Rust" alt="Typing SVG" />
 
 <br/>
 
@@ -23,6 +23,7 @@
 ```rust
 struct Kushagra {
     location:  "Jaipur, India 🇮🇳",
+    day_job:   "Senior Full Stack Developer @ Blinkit 🟡",
     focus:     ["AI Agent Runtimes", "Systems Programming", "Local-first Infra"],
     currently: "Building ARIA-X — a local-first Rust multi-agent runtime & gateway",
     languages: ["Rust 🦀", "JavaScript", "TypeScript", "Shell"],
@@ -30,9 +31,10 @@ struct Kushagra {
 }
 ```
 
+- 🟡 **Senior Full Stack Developer @ [Blinkit](https://blinkit.com)** — shipping high-scale features for India's instant delivery platform
 - 🔨 Maintainer of **[robo-claw / ARIA-X](https://github.com/Kushagra-Madhukar/robo-claw)** — a production-style agent platform in Rust
 - 🤖 Deep in multi-agent orchestration, Cedar policy enforcement, SQLite-first runtimes
-- ⚡ Previously built React/Node micro-frontends, NPM packages, and 3D visualisers
+- ⚡ Built React/Node micro-frontends, NPM packages, and 3D visualisers
 - 📦 51+ public repositories across systems, web, and AI tooling
 
 ---
