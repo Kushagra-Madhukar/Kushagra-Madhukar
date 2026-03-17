@@ -103,13 +103,14 @@ struct Kushagra {
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚙️ Currently Building
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Madhukar&theme=darkhub&no-frame=false&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+| | Project | Stack | Status |
+|---|---------|-------|--------|
+| 🦀 | **[ARIA-X / robo-claw](https://github.com/Kushagra-Madhukar/robo-claw)** — Local-first multi-agent AI runtime | Rust, SQLite, Cedar, Wasm | 🟠 Alpha |
+| 🌐 | **[3D Lens Visualiser](https://github.com/Kushagra-Madhukar/3d-lens-visualiser)** — Interactive 3D optics tool | JavaScript, WebGL | 🟢 Live |
+| 📦 | **[react-animated-dropdown](https://github.com/Kushagra-Madhukar/react-animated-dropdown)** — NPM component package | React, CSS Animations | 🟢 Published |
+| 🧩 | **[Module Federation POC](https://github.com/Kushagra-Madhukar/module_federation)** — Microfrontend architecture | Webpack 5, React | 🟢 Live |
 
 ---
 
