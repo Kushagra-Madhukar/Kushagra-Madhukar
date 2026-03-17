@@ -107,7 +107,7 @@ struct Kushagra {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Madhukar&theme=darkhub&no-frame=false&row=1&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Madhukar&theme=darkhub&no-frame=false&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
