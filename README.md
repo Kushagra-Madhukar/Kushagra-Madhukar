@@ -1,47 +1,119 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     GitHub Profile README — Kushagra-Madhukar
-     Drop this file into: github.com/Kushagra-Madhukar/Kushagra-Madhukar
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated typing headline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=E05C1A&background=00000000&center=true&vCenter=true&random=false&width=750&lines=Hey%2C+I'm+Kushagra+%F0%9F%91%8B;Sr.+Full+Stack+Dev+%40+Blinkit+%F0%9F%9F%A1;Rust+%26+AI+Systems+Engineer;Building+ARIA-X+%E2%80%94+Local-first+Agent+Runtime;Multi-Agent+%7C+Tool+Orchestration+%7C+Rust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=E05C1A&background=00000000&center=true&vCenter=true&random=false&width=900&lines=Hey%2C+I'm+Kushagra+Madhukar+%F0%9F%91%8B;Senior+Full+Stack+Developer+%40+Blinkit;Rust+%7C+AI+Systems+%7C+Agent+Infrastructure;Building+HiveClaw+%E2%80%94+Local-first+Agent+Runtime;Hive+Mind+%7C+Swarm+Systems+%7C+Robotics+Direction" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social / contact badges -->
 [![GitHub followers](https://img.shields.io/github/followers/Kushagra-Madhukar?label=Follow&style=for-the-badge&logo=github&color=E05C1A&labelColor=0d1117)](https://github.com/Kushagra-Madhukar)
 [![Profile views](https://komarev.com/ghpvc/?username=Kushagra-Madhukar&style=for-the-badge&color=E05C1A&label=PROFILE+VIEWS)](https://github.com/Kushagra-Madhukar)
+[![HiveClaw](https://img.shields.io/badge/HiveClaw-local--first%20agent%20runtime-E05C1A?style=for-the-badge&labelColor=0d1117)](https://github.com/Kushagra-Madhukar/HiveClaw)
+[![Rust](https://img.shields.io/badge/Rust-systems%20engineering-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```rust
 struct Kushagra {
-    location:  "Jaipur, India 🇮🇳",
-    day_job:   "Senior Full Stack Developer @ Blinkit 🟡",
-    focus:     ["AI Agent Runtimes", "Systems Programming", "Local-first Infra"],
-    currently: "Building ARIA-X — a local-first Rust multi-agent runtime & gateway",
-    languages: ["Rust 🦀", "JavaScript", "TypeScript", "Shell"],
-    interests: ["Multi-agent AI", "Tool Orchestration", "Browser Automation", "MCP"],
+    location: "Jaipur, India",
+    day_job: "Senior Full Stack Developer @ Blinkit",
+    focus: [
+        "AI Agent Runtimes",
+        "Systems Programming",
+        "Local-first Infrastructure",
+        "Multi-agent Orchestration",
+    ],
+    flagship_project: "HiveClaw",
+    building_toward: [
+        "Hive-mind agent systems",
+        "Swarm coordination",
+        "Operator-grade AI runtime infra",
+        "Robotics and ROS2 integration",
+    ],
+    languages: ["Rust", "JavaScript", "TypeScript", "Shell"],
 }
 ```
 
-- 🟡 **Senior Full Stack Developer @ [Blinkit](https://blinkit.com)** — shipping high-scale features for India's instant delivery platform
-- 🔨 Maintainer of **[robo-claw / ARIA-X](https://github.com/Kushagra-Madhukar/robo-claw)** — a production-style agent platform in Rust
-- 🤖 Deep in multi-agent orchestration, Cedar policy enforcement, SQLite-first runtimes
-- ⚡ Built React/Node micro-frontends, NPM packages, and 3D visualisers
-- 📦 51+ public repositories across systems, web, and AI tooling
+- Senior Full Stack Developer at [Blinkit](https://blinkit.com), shipping high-scale product systems
+- Building **[HiveClaw](https://github.com/Kushagra-Madhukar/HiveClaw)**, a local-first Rust agent runtime formerly developed under the RoboClaw / ARIA-X name
+- Focused on multi-agent systems, tool orchestration, policy-gated execution, durable runtime state, and low-level systems design
+- Interested in the overlap between software agents, browser automation, operator control planes, and future robotics / ROS2 workflows
+- 50+ public repositories across systems, frontend, tooling, experiments, and infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-<!-- Language & Framework badges -->
+I like building systems that sit below the application layer:
+
+- local-first AI runtimes
+- multi-agent orchestration systems
+- secure tool execution layers
+- browser automation infrastructure
+- policy-gated operator workflows
+- durable runtime state and retrieval systems
+- foundations for swarm systems, multi-device coordination, and robotics-aware control planes
+
+---
+
+## Featured Project — HiveClaw
+
+<div align="center">
+
+[![HiveClaw card](https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Madhukar&repo=HiveClaw&theme=github_dark&title_color=E05C1A&icon_color=E05C1A&border_color=30363d&bg_color=0d1117)](https://github.com/Kushagra-Madhukar/HiveClaw)
+
+</div>
+
+> **HiveClaw** is a local-first, multi-agent AI runtime and gateway platform written in **Rust**. It combines orchestration, tool execution, Cedar policy enforcement, SQLite-first durable state, MCP integration, browser automation, Telegram/WebSocket/TUI surfaces, and a future-facing path toward hive-mind coordination, swarm execution, and robotics/ROS2 integration.
+
+### Why HiveClaw matters
+
+Most agent projects are either:
+
+- chat wrappers,
+- single-agent CLIs,
+- prompt-heavy automation layers,
+- or hosted orchestration products with weak local control.
+
+HiveClaw is aiming at a different category:
+
+- **local-first**
+- **operator-visible**
+- **policy-gated**
+- **multi-agent**
+- **tool-runtime-first**
+- **swarm-capable by architecture**
+
+### Core runtime pieces
+
+| Module | Role |
+|--------|------|
+| `aria-core` | Shared contracts, requests, responses, runtime types |
+| `aria-intelligence` | Orchestrator, prompting, routing, provider adapters |
+| `aria-policy` | Cedar-backed capability enforcement |
+| `aria-gateway` | Channel adapters, normalization, transport logic |
+| `aria-ssmu` | Session memory, retrieval, compaction |
+| `aria-mcp` | MCP client-side integration |
+| `aria-vault` | Encrypted secrets and protected state |
+| `aria-skill-runtime` | Wasm execution boundary |
+| `aria-mesh` | Mesh and distributed topology direction |
+
+### Long-term direction
+
+HiveClaw is being shaped toward:
+
+- one runtime coordinating many agents
+- one control plane spanning many channels
+- one mesh-aware architecture spanning multiple systems
+- one future hive mind for swarm-like execution
+- one path from software agents to robot- and ROS2-aware environments
+
+---
+
+## Tech Stack
+
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-%23E05C1A.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -51,70 +123,44 @@ struct Kushagra {
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Cedar](https://img.shields.io/badge/Cedar-policy%20engine-1f6feb?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-integration-8b5cf6?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-direction-22314E?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Featured Project — ARIA-X / RoboClaw
+## Current Focus
 
-<div align="center">
-
-[![robo-claw card](https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Madhukar&repo=robo-claw&theme=github_dark&title_color=E05C1A&icon_color=E05C1A&border_color=30363d&bg_color=0d1117)](https://github.com/Kushagra-Madhukar/robo-claw)
-
-</div>
-
-> **ARIA-X** is a local-first, multi-agent AI runtime written in **Rust** — combining agent orchestration, Cedar policy enforcement, tool execution, SQLite-first durable state, browser automation, MCP integration, Telegram/WebSocket gateways, and a full TUI. Not a chat wrapper. A real agent operating system.
-
-| Module | Role |
-|--------|------|
-| `aria-core` | Shared contracts & types |
-| `aria-intelligence` | Orchestrator, routing, prompting, provider adapters |
-| `aria-policy` | Cedar-backed capability enforcement |
-| `aria-gateway` | Channel adapters — TUI, Telegram, WebSocket |
-| `aria-ssmu` | Session memory, retrieval, compaction |
-| `aria-mcp` | MCP client-side integration |
-| `aria-vault` | Encrypted secret storage |
-| `aria-skill-runtime` | Wasm execution boundary for deterministic skills |
+| | Project | Stack | Status |
+|---|---------|-------|--------|
+| Rust | **[HiveClaw](https://github.com/Kushagra-Madhukar/HiveClaw)** — local-first multi-agent runtime and gateway | Rust, SQLite, Cedar, Wasm, MCP | Alpha |
+| WebGL | **[3D Lens Visualiser](https://github.com/Kushagra-Madhukar/3d-lens-visualiser)** — interactive optics visualisation | JavaScript, WebGL | Live |
+| UI | **[react-animated-dropdown](https://github.com/Kushagra-Madhukar/react-animated-dropdown)** — published UI package | React, CSS | Published |
+| Frontend infra | **[Module Federation POC](https://github.com/Kushagra-Madhukar/module_federation)** — microfrontend architecture | Webpack, React | Live |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<!-- Main stats + streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Madhukar&show_icons=true&theme=github_dark&title_color=E05C1A&icon_color=E05C1A&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Madhukar&show_icons=true&theme=github_dark&title_color=E05C1A&icon_color=E05C1A&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Madhukar&layout=compact&theme=github_dark&title_color=E05C1A&text_color=c9d1d9&border_color=30363d&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<!-- Streak stats — updates daily automatically -->
 <img src="https://streak-stats.demolab.com?user=Kushagra-Madhukar&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&ring=E05C1A&fire=E05C1A&currStreakLabel=E05C1A" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## ⚙️ Currently Building
-
-| | Project | Stack | Status |
-|---|---------|-------|--------|
-| 🦀 | **[ARIA-X / robo-claw](https://github.com/Kushagra-Madhukar/robo-claw)** — Local-first multi-agent AI runtime | Rust, SQLite, Cedar, Wasm | 🟠 Alpha |
-| 🌐 | **[3D Lens Visualiser](https://github.com/Kushagra-Madhukar/3d-lens-visualiser)** — Interactive 3D optics tool | JavaScript, WebGL | 🟢 Live |
-| 📦 | **[react-animated-dropdown](https://github.com/Kushagra-Madhukar/react-animated-dropdown)** — NPM component package | React, CSS Animations | 🟢 Published |
-| 🧩 | **[Module Federation POC](https://github.com/Kushagra-Madhukar/module_federation)** — Microfrontend architecture | Webpack 5, React | 🟢 Live |
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -124,7 +170,7 @@ struct Kushagra {
 
 ---
 
-## 🗂️ More Projects
+## More Projects
 
 <div align="center">
 
@@ -139,7 +185,7 @@ struct Kushagra {
 
 <div align="center">
 
-*"Not a chat wrapper. An agent runtime with durable state, explicit policy boundaries, and operator visibility."*
+*"Not a chat wrapper. A local-first agent runtime with durable state, explicit policy boundaries, operator visibility, and a path toward hive-mind and robotics systems."*
 
 ![snake animation](https://raw.githubusercontent.com/Kushagra-Madhukar/Kushagra-Madhukar/output/github-contribution-grid-snake-dark.svg)
 
